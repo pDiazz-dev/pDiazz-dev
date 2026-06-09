@@ -1,9 +1,9 @@
-## Olá 👋 !! Eu sou Pedro Dias estudante.
+## Olá !! Eu sou Pedro Dias, estudante.
 
-- 🌱 Estou estudando Java (Juntamente com as ferramentas) || Cursando ADS(Análise de Desenvolvimento de Sistemas)
-- 👯 Pretendo trabalhar em Back-end
-- 📫 Email: pedroestudos20252025@gmail.com || Telefone: 86995195654 || Instagram: @pfdiazz_
-- 😄 Pronomes: ele/dele
+-  Estou estudando Java (Juntamente com as ferramentas) || Cursando ADS(Análise de Desenvolvimento de Sistemas)
+- Pretendo trabalhar em Back-end
+- Email: pedroestudos20252025@gmail.com || Telefone: 86995195654 || Instagram: @pfdiazz_
+- Pronomes: ele/dele
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
   
   <a href="https://github.com/pDiazz-dev" target="_blank" style="text-decoration: none;">
