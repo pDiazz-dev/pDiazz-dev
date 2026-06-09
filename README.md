@@ -4,25 +4,6 @@
 - Pretendo trabalhar em Back-end
 - Email: pedroestudos20252025@gmail.com || Telefone: 86995195654 || Instagram: @pfdiazz_
 - Pronomes: ele/dele
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
-  
-  <a href="https://github.com/pDiazz-dev" target="_blank" style="text-decoration: none;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=pt-br"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=pDiazz-dev&show_icons=true&hide_border=true&bg_color=00000000&locale=pt-br" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
-    </picture>
-  </a>
-
-  <a href="https://github.com/pDiazz-dev" target="_blank" style="text-decoration: none;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=pDiazz-dev&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
-  </a>
   
   <h2 align="center">⚡ Tecnologias que eu utilizo</h2>
 
