@@ -1,4 +1,4 @@
-## Olá !! Eu sou Pedro Dias, estudante.
+## Olá !! Eu sou Pedro Dias.
 
 -  Estou estudando Java (Juntamente com as ferramentas) || Cursando ADS(Análise de Desenvolvimento de Sistemas)
 - Pretendo trabalhar em Back-end
